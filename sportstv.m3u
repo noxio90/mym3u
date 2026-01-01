@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, eqg vs alg
-https://d2f8niqinvm9u5.cloudfront.net/hls/1/stream.m3u8
-
-#EXTINF:-1, sdn vs bfa
-https://bsp11.s3.us-west-2.amazonaws.com/hls/1/stream.m3u8
+#EXTINF:-1, SUN vs MCI ch1
+https://bmax1.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8
