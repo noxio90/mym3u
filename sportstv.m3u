@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, TUNISIA vs MALI ch1
-https://bsp22.s3.eu-north-1.amazonaws.com/hls/0/stream.m3u8
+#EXTINF:-1, TANZANIE vs MAROC ch1 17:00
+https://bsp66.s3.eu-north-1.amazonaws.com/hls/1/stream.m3u8
+
+#EXTINF:-1, TANZANIE vs MAROC ch2 17:00
+https://bsp33.s3.eu-north-1.amazonaws.com/hls/0/stream.m3u8
+
+#EXTINF:-1, REAL BETIS vs REAL MADRID ch1 16:15
+about:blank
